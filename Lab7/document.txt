@@ -1,0 +1,9 @@
+Lab 7 (sheet)
+
+
+Q1. Write a program that runs 5 threads, each thread randomizes a number 
+between 1 and 10. The main thread waits for all the others to finish, calculates the 
+sum of the numbers which were randomized and prints that sum.
+Q2. Write a multithreaded program that makes Multiplication for two matrices. Allow user 
+to enter the size and values of two matrices and multiply them using multiple threads that each 
+work on one matrix row
